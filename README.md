@@ -1,7 +1,7 @@
 # Reinforcement-Learning
+Vinodh Chincholi, MDS202252
 
 Assignment 1
-Vinodh Chincholi, MDS202252
 --
 The solutions to each question is in these files:
 
@@ -14,3 +14,8 @@ The solutions to each question is in these files:
 - Question 2(i)  -- Assignment1-v4.ipynb
 
 - Question 2(ii) -- Assignment1-v5.ipynb
+
+
+Assignment 2
+--
+The solutions are in the folder Assignment-2
